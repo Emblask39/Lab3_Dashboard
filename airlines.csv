@@ -1,0 +1,914 @@
+,1Time Airline;1T;RNX;NEXTIME;South Africa
+0,40-Mile Air;Q5;MLA;MILE-AIR;United States
+1,ABSA - Aerolinhas Brasileiras;M3;TUS;ABSA Cargo;Brazil
+2,ABX Air;GB;ABX;ABEX;United States
+3,ACES Colombia;VX;AES;ACES;Colombia
+4,ADC Airlines;Z7;ADK;ADCO;Nigeria
+5,AOM French Airlines;IW;AOM;French Lines;France
+6,ATA Airlines;TZ;AMT;AMTRAN;United States
+7,ATRAN Cargo Airlines;V8;VAS;ATRAN;Russian Federation
+8,AVCOM;J6;AOC;AERO AVCOM;Russia
+9,Abacus International;1B;\N;\N;Singapore
+10,Aban Air;K5;ABE;ABAN;Iran
+11,Abelag Aviation;W9;AAB;ABG;Belgium
+12,Abu Dhabi Amiri Flight;MO;AUH;SULTAN;United Arab Emirates
+13,Access Air;ZA;CYD;CYCLONE;United States
+14,Ada Air;ZY;ADE;ADA AIR;Albania
+15,Adam Air;KI;DHI;ADAM SKY;Indonesia
+16,Adria Airways;JP;ADR;ADRIA;Slovenia
+17,Advance Leasing Company;4G;\N;\N;United States
+18,Aegean Airlines;A3;AEE;AEGEAN;Greece
+19,Aer Arann;RE;REA;AER ARANN;Ireland
+20,Aer Lingus;EI;EIN;SHAMROCK;Ireland
+21,Aero 2000;4M;DSM;LAN AR;Argentina
+22,Aero Airlines;EE;EAY;REVAL;Estonia
+23,Aero Asia International;E4;RSO;AERO ASIA;Pakistan
+24,Aero Benin;EM;AEB;AEROBEN;Benin
+25,Aero California;JR;SER;AEROCALIFORNIA;Mexico
+26,Aero Condor Peru;Q6;CDP;CONDOR-PERU;Peru
+27,Aero Contractors;AJ;NIG;AEROLINE;Nigeria
+28,Aero Flight;GV;ARF;Aero Fox;Germany
+29,Aero Lanka;QL;RLN;AERO LANKA;Sri Lanka
+30,Aero Services Executive;W4;BES;BIRD EXPRESS;France
+31,Aero VIP;2D;AOG;AVIP;Argentina
+32,Aero-Charter Ukraine;DW;UCR;CHARTER UKRAINE;Ukraine
+33,Aero-Service;BF;RSR;CONGOSERV;Republic of the Congo
+34,Aero-Tropics Air Services;HC;ATI;\N;Australia
+35,AeroRepública;P5;RPB;AEROREPUBLICA;Colombia
+36,Aerocondor;2B;ARD;AEROCONDOR;Portugal
+37,Aeroflot Russian Airlines;SU;AFL;AEROFLOT;Russia
+38,Aeroflot-Don;D9;DNV;DONAVIA;Russia
+39,Aeroflot-Nord;5N;AUL;DVINA;Russia
+40,Aeroland Airways;3S;\N;\N;Greece
+41,Aerolane;XL;LNE;LAN ECUADOR;Ecuador
+42,Aeroline GmbH;7E;AWU;SYLT-AIR;Germany
+43,Aerolineas Argentinas;AR;ARG;ARGENTINA;Argentina
+44,Aerolineas Galapagos (Aerogal);2K;GLG;AEROGAL;Ecuador
+45,Aerolitoral;5D;SLI;COSTERA;Mexico
+46,Aeromar;BQ;ROM;BRAVO QUEBEC;Dominican Republic
+47,Aeromar;VW;TAO;TRANS-AEROMAR;Mexico
+48,Aeromexpress;QO;MPX;AEROMEXPRESS;Mexico
+49,Aeromist-Kharkiv;HT;AHW;AEROMIST;Ukraine
+50,Aeroméxico;AM;AMX;AEROMEXICO;Mexico
+51,Aeropelican Air Services;OT;PEL;PELICAN;Australia
+52,Aeroperú;PL;PLI;Aeroperu;Peru
+53,Aerosur;5L;RSU;AEROSUR;Bolivia
+54,Aerosvit Airlines;VV;AEW;AEROSVIT;Ukraine
+55,Africa West;FK;WTA;WEST TOGO;Togo
+56,African Safari Airways;QS;QSC;ZEBRA;Kenya
+57,African Transport Trading and Investment Company;ML;\N;\N;Sudan
+58,Afrinat International Airlines;Q9;AFU;\N;Gambia
+59,Afriqiyah Airways;8U;AAW;AFRIQIYAH;Libya
+60,Aigle Azur;ZI;AAF;AIGLE AZUR;France
+61,Air Afrique;RK;RKA;AIRAFRIC;Ivory Coast
+62,Air Algérie;AH;DAH;AIR ALGERIE;Algeria
+63,Air Alpha Greenland;GD;AHA;AIR ALPHA;Denmark
+64,Air Alps Aviation;A6;LPV;ALPAV;Austria
+65,Air Arabia;G9;ABY;ARABIA;United Arab Emirates
+66,Air Armenia;QN;ARR;AIR ARMENIA;Armenia
+67,Air Astana;KC;KZR;ASTANALINE;Kazakhstan
+68,Air Atlanta Icelandic;CC;ABD;ATLANTA;Iceland
+69,Air Austral;UU;REU;REUNION;France
+70,Air Baltic;BT;BTI;AIRBALTIC;Latvia
+71,Air Bangladesh;B9;BGD;AIR BANGLA;Bangladesh
+72,Air Berlin;AB;BER;AIR BERLIN;Germany
+73,Air Bosna;JA;BON;AIR BOSNA;Bosnia and Herzegovina
+74,Air Botswana;BP;BOT;BOTSWANA;Botswana
+75,Air Bourbon;ZB;BUB;BOURBON;Reunion
+76,Air Burkina;2J;VBW;BURKINA;Burkina Faso
+77,Air Burundi;8Y;PBU;AIR-BURUNDI;Burundi
+78,Air Caledonie International;SB;ACI;AIRCALIN;France
+79,Air Calédonie;TY;TPC;AIRCAL;France
+80,Air Canada Jazz;QK;JZA;JAZZ;Canada
+81,Air Canada;AC;ACA;AIR CANADA;Canada
+82,Air Caraïbes;TX;FWI;FRENCH WEST;France
+83,Air Cargo Carriers;2Q;SNC;NIGHT CARGO;United States
+84,Air Central;NV;CRF;AIR CENTRAL;Japan
+85,Air Chathams;CV;CVA;CHATHAM;New Zealand
+86,Air China;CA;CCA;AIR CHINA;China
+87,Air City;4F;ECE;AIRCITY;Germany
+88,Air Class Lineas Aereas;QD;QCL;ACLA;Uruguay
+89,Air Comores International;GG;HAH;AIR COMORES;Comoros
+90,Air Contractors;AG;ABR;CONTRACT;Ireland
+91,Air Corridor;QC;CRD;AIR CORRIDOR;Mozambique
+92,Air D'Ayiti;H9;HAD;HAITI AVIA;Haiti
+93,Air Dolomiti;EN;DLA;DOLOMOTI;Italy
+94,Air Europa;UX;AEA;EUROPA;Spain
+95,Air Europe;PE;AEL;AIR EUROPE;Italy
+96,Air Exel;XT;AXL;EXEL COMMUTER;Netherlands
+97,Air Fiji;PC;FAJ;FIJIAIR;Fiji
+98,Air Finland;OF;FIF;AIR FINLAND;Finland
+99,Air Florida;QH;FLZ;AIR FLORIDA;United States
+100,Air Foyle;GS;UPA;FOYLE;United Kingdom
+101,Air France;AF;AFR;AIRFRANS;France
+102,Air Gabon;GN;AGN;GOLF NOVEMBER;Gabon
+103,Air Georgia;DA;GRG;AIR GEORGIA;Georgia
+104,Air Georgian;ZX;GGN;GEORGIAN;Canada
+105,Air Glaciers;7T;AGV;AIR GLACIERS;Switzerland
+106,Air Greenland;GL;GRL;GREENLAND;Denmark
+107,Air Guinee Express;2U;GIP;FUTURE EXPRESS;Guinea
+108,Air Hong Kong;LD;AHK;AIR HONG KONG;Hong Kong
+109,Air Horizon;8C;HZT;HORIZON TOGO;Togo
+110,Air Iceland;NY;FXI;FAXI;Iceland
+111,Air India Express;IX;AXB;EXPRESS INDIA;India
+112,Air India Limited;AI;AIC;AIRINDIA;India
+113,Air Italy;I9;AEY;AIR ITALY;Italy
+114,Air Ivoire;VU;VUN;AIRIVOIRE;Ivory Coast
+115,Air Jamaica;JM;AJM;JAMAICA;Jamaica
+116,Air Japan;NQ;AJX;AIR JAPAN;Japan
+117,Air Kazakhstan;9Y;KZK;Kazakh;Kazakhstan
+118,Air Kiribati;4A;AKL;\N;Kiribati
+119,Air Koryo;JS;KOR;AIR KORYO;Democratic People's Republic of Korea
+120,Air Liberté;VD;\N;\N;France
+121,Air Lithuania;TT;KLA;KAUNAS;Lithuania
+122,Air Luxor GB;L8;LXG;LUXOR GOLF;Guinea-Bissau
+123,Air Luxor;LK;LXR;AIRLUXOR;Portugal
+124,Air Macau;NX;AMU;AIR MACAO;Macao
+125,Air Madagascar;MD;MDG;AIR MADAGASCAR;Madagascar
+126,Air Madrid;NM;DRD;ALADA AIR;Spain
+127,Air Malawi;QM;AML;MALAWI;Malawi
+128,Air Malta;KM;AMC;AIR MALTA;Malta
+129,Air Mandalay;6T;\N;Six Tango;Burma
+130,Air Marshall Islands;CW;CWM;AIR MARSHALLS;Marshall Islands
+131,Air Mauritanie;MR;MRT;MIKE ROMEO;Mauritania
+132,Air Mauritius;MK;MAU;AIRMAURITIUS;Mauritius
+133,Air Mediterranee;DR;BIE;MEDITERRANEE;France
+134,Air Midwest;ZV;AMW;AIR MIDWEST;United States
+135,Air Mobility Command;MC;RCH;REACH;United States
+136,Air Moldova;9U;MLD;AIR MOLDOVA;Moldova
+137,Air Namibia;SW;NMB;NAMIBIA;Namibia
+138,Air New Zealand;NZ;ANZ;NEW ZEALAND;New Zealand
+139,Air Nippon Network Co. Ltd.;EH;AKX;ALFA WING;Japan
+140,Air Nippon;EL;ANK;ANK AIR;Japan
+141,Air Niugini;PX;ANG;NUIGINI;Papua New Guinea
+142,Air North Charter - Canada;4N;ANT;AIR NORTH;Canada
+143,Air Nostrum;YW;ANE;AIR NOSTRUM;Spain
+144,Air One;AP;ADH;HERON;Italy
+145,Air Pacific;FJ;FJI;PACIFIC;Fiji
+146,Air Paradise International;AD;PRZ;RADISAIR;Indonesia
+147,Air Philippines;2P;GAP;ORIENT PACIFIC;Philippines
+148,Air Plus Comet;A7;MPD;RED COMET;Spain
+149,Air Sahara;S2;RSH;SAHARA;India
+150,Air Saint Pierre;PJ;SPM;\N;France
+151,Air Salone;20;RNE;AIR SALONE;Sierra Leone
+152,Air Salone;2O;\N;\N;Sierra Leone
+153,Air Santo Domingo;EX;SDO;AERO DOMINGO;Dominican Republic
+154,Air Senegal International;V7;SNG;AIR SENEGAL;Senegal
+155,Air Service Gabon;G8;AGB;\N;Gabon
+156,Air Seychelles;HM;SEY;SEYCHELLES;Seychelles
+157,Air Sicilia;BM;\N;\N;Italy
+158,Air Sinai;4D;ASD;AIR SINAI;Egypt
+159,Air Slovakia;GM;SVK;SLOVAKIA;Slovakia
+160,Air Srpska;RB;SBK;Air Srpska;Bosnia and Herzegovina
+161,Air São Tomé and Príncipe;KY;EQL;EQUATORIAL;Air São Tomé and Príncipe
+162,Air Tahiti Nui;TN;THT;TAHITI AIRLINES;France
+163,Air Tahiti;VT;VTA;AIR TAHITI;French Polynesia
+164,Air Tanzania;TC;ATC;TANZANIA;Tanzania
+165,Air Tindi;8T;\N;\N;Canadian Territories
+166,Air Togo;YT;TGA;AIR TOGO;Togo
+167,Air Transat;TS;TSC;TRANSAT;Canada
+168,Air Turks and Caicos;JY;TCI;KERRMONT;Turks and Caicos Islands
+169,Air Ukraine;6U;UKR;AIR UKRAINE;Ukraine
+170,Air Urga;3N;URG;URGA;Ukraine
+171,Air VIA;VL;VIM;\N;Bulgaria
+172,Air Vanuatu;NF;AVN;AIR VAN;Vanuatu
+173,Air Vegas;6V;VGA;AIR VEGAS;United States
+174,Air Wales;6G;AWW;RED DRAGON;United Kingdom
+175,Air Wisconsin;ZW;AWI;AIR WISCONSIN;United States
+176,Air Zimbabwe;UM;AZW;AIR ZIMBABWE;Zimbabwe
+177,AirAsia;AK;AXM;ASIAN EXPRESS;Malaysia
+178,AirBridge Cargo;RU;ABW;AIRBRIDGE CARGO;Russia
+179,AirTran Airways;FL;TRS;CITRUS;United States
+180,Airblue;ED;ABQ;PAKBLUE;Pakistan
+181,Airbus France;4Y;RBU;AIRBUS FRANCE;France
+182,Aircompany Yakutia;R3;SYL;AIR YAKUTIA;Russia
+183,Aires;4C;ARE; Aerovias de Integracion Regional; S.A.
+184,Airlinair;A5;RLA;AIRLINAIR;France
+185,Airlines Of Tasmania;FO;ATM;AIRTAS;Australia
+186,Airlines PNG;CG;TOK;BALUS;Papua New Guinea
+187,Airlink Zambia;K8;ZAK;\N;Zambia
+188,Airnorth;TL;ANO;TOPEND;Australia
+189,Airshop;FF;\N;\N;Netherlands
+190,Alaska Airlines;AS;ASA; Inc.;ALASKA
+191,Alaska Central Express;KO;AER;ACE AIR;United States
+192,Albanian Airlines;LV;LBC;ALBANIAN;Albania
+193,Albarka Air;F4;NBK;AL-AIR;Nigeria
+194,Alidaunia;D4;LID;ALIDA;Italy
+195,Alitalia;AZ;AZA;ALITALIA;Italy
+196,All Nippon Airways;NH;ANA;ALL NIPPON;Japan
+197,Allegiant Air;G4;AAY;ALLEGIANT;United States
+198,Allegro;LL;GRO;ALLEGRO;Mexico
+199,Alliance Air;CD;LLR;ALLIED;India
+200,Alliance Airlines;QQ;UTY;UNITY;Australia
+201,Aloha Airlines;AQ;AAH;ALOHA;United States
+202,Alpi Eagles;E8;ELG;ALPI EAGLES;Italy
+203,Alpine Air Express;5A;AIP;ALPINE AIR;United States
+204,Alrosa Mirny Air Enterprise;6R;DRU;MIRNY;Russia
+205,Amadeus Global Travel Distribution;1A;AGT;AMADEUS;Spain
+206,Amaszonas;Z8;AZN;\N;Bolivia
+207,Amber Air;0A;GNT;GINTA;Lithuania
+208,America West Airlines;HP;AWE;CACTUS;United States
+209,American Airlines;AA;AAL;AMERICAN;United States
+210,American Eagle Airlines;MQ;EGF;EAGLE FLIGHT;United States
+211,American Falcon;WK;AFB;AMERICAN FALCON;Argentina
+212,Amerijet International;M6;AJT;AMERIJET;United States
+213,Amtrak;2V;\N;\N;United States
+214,Ansett Australia;AN;AAA;ANSETT;Australia
+215,Antinea Airlines;HO;DJA;ANTINEA;Algeria
+216,Antrak Air;04;ABV;ANTRAK;Ghana
+217,Arctic Circle Air Service;5F;CIR;AIR ARCTIC;United States
+218,Arcus-Air Logistic;ZE;AZE;ARCUS AIR;Germany
+219,Ariana Afghan Airlines;FG;AFG;ARIANA;Afghanistan
+220,Arkefly;OR;TFL;ARKEFLY;Netherlands
+221,Arkia Israel Airlines;IZ;AIZ;ARKIA;Israel
+222,Armavia;U8;RNV;ARMAVIA;Armenia
+223,Armenian International Airways;MV;RML;\N;Armenia
+224,Arrow Air;JW;APW;BIG A;United States
+225,Aserca Airlines;R7;OCA;AROSCA;Venezuela
+226,Asia Overnight Express;OE;AOT;ASIA OVERNIGHT;Philippines
+227,Asian Express Airlines;HJ;AXF;FREIGHTEXPRESS;Australia
+228,Asian Spirit;6K;RIT;ASIAN SPIRIT;Philippines
+229,Asiana Airlines;OZ;AAR;ASIANA;Republic of Korea
+230,Askari Aviation;4K;AAS;AL-AAS;Pakistan
+231,Astair;8D;\N;\N;Russian Federation
+232,Astar Air Cargo;ER;DHL;DAHL;United States
+233,Astraeus;5W;AEU;FLYSTAR;United Kingdom
+234,Astrakhan Airlines;OB;ASZ;AIR ASTRAKHAN;Russia
+235,Astral Aviation;8V;ACP;ASTRAL CARGO;Kenya
+236,Atlant-Soyuz Airlines;3G;AYZ;ATLANT-SOYUZ;Russia
+237,Atlantic Airways;RC;FLI;FAROELINE;Faroe Islands
+238,Atlantic Southeast Airlines;EV;ASQ;ACEY;United States
+239,Atlantis European Airways;TD;LUR;\N;Armenia
+240,Atlas Air;5Y;GTI;GIANT;United States
+241,Atlas Blue;8A;BMM;ATLAS BLUE;Morocco
+242,Atlasjet;KK;KKK;ATLASJET;Turkey
+243,Atyrau Air Ways;IP;JOL;EDIL;Kazakhstan
+244,Augsburg Airways;IQ;AUB;AUGSBURG-AIR;Germany
+245,Aurigny Air Services;GR;AUR;AYLINE;United Kingdom
+246,Aus-Air;NO;AUS;\N;Australia
+247,Austral Lineas Aereas;AU;AUT;AUSTRAL;Argentina
+248,Australian Airlines;AO;AUZ;AUSTRALIAN;Australia
+249,Austrian Airlines;OS;AUA;AUSTRIAN;Austria
+250,Austrian Arrows;VO;TYR;TYROLEAN;Austria
+251,Avensa;VE;AVE;Avensa;Venezuela
+252,Aviaexpress;RX;AEH;Avex;Hungary
+253,Avialeasing Aviation Company;EC;TWN;TWINARROW;Uzbekistan
+254,Avianca - Aerovias Nacionales de Colombia;AV;AVA; S.A.;AVIANCA
+255,Avient Aviation;Z3;SMJ;AVAVIA;Zimbabwe
+256,Avies;U3;AIA;AVIES;Estonia
+257,Avirex;G2;VXG;AVIREX-GABON;Gabon
+258,Avolar Aerolineas;V5;VLI;AEROVOLAR;Mexico
+259,Azerbaijan Airlines;J2;AHY;AZAL;Azerbaijan
+260,Aztec Worldwide Airlines;7A;\N;\N;United States
+261,Azzurra Air;ZS;AZI;AZZURRA;Italy
+262,BA Connect;TH;\N;\N;United Kingdom
+263,BACH Flugbetriebsges;B4;BCF;BACH;Austria
+264,BAL Bashkirian Airlines;V9;BTC;BASHKIRIAN;Russia
+265,BAX Global;8W;\N;\N;\N
+266,BRA-Transportes Aereos;7R;BRB;BRA-TRANSPAEREOS;Brazil
+267,Bahamasair;UP;BHS;BAHAMAS;Bahamas
+268,Baker Aviation;8Q;BAJ;BAKER AVIATION;United States
+269,Balkan Bulgarian Airlines;LZ;\N;\N;\N
+270,Bangkok Airways;PG;BKP;BANGKOK AIR;Thailand
+271,Barents AirLink;8N;NKF;NORDFLIGHT;Sweden
+272,Bearskin Lake Air Service;JV;BLS;BEARSKIN;Canada
+273,Belair Airlines;4T;BHP;BELAIR;Switzerland
+274,Belavia Belarusian Airlines;B2;BRU;BELARUS AVIA;Belarus
+275,Bellview Airlines;B3;BLV;BELLVIEW AIRLINES;Nigeria
+276,Bemidji Airlines;CH;BMJ;BEMIDJI;United States
+277,Benin Golf Air;A8;BGL;BENIN GOLF;Benin
+278,Bering Air;8E;BRG;BERING AIR;United States
+279,Berjaya Air;J8;BVT;BERJAYA;Malaysia
+280,Big Sky Airlines;GQ;BSY;BIG SKY;United States
+281,Biman Bangladesh Airlines;BG;BBC;BANGLADESH;Bangladesh
+282,Binter Canarias;NT;IBB;\N;Spain
+283,Bismillah Airlines;5Z;BML;BISMILLAH;Bangladesh
+284,Blue Air;0B;JOR;BLUE TRANSPORT;Romania
+285,Blue Dart Aviation;BZ;BDA;BLUE DART;India
+286,Blue Panorama Airlines;BV;BPA;BLUE PANOROMA;Italy
+287,Blue Wings;QW;BWG;BLUE WINGS;Germany
+288,Blue1;KF;BLF;BLUEFIN;Finland
+289,Boston-Maine Airways;E9;CXS;CLIPPER CONNECTION;United States
+290,Bouraq Indonesia Airlines;BO;BOU;BOURAQ;Indonesia
+291,Braathens;BU;BRA;Braathens;Norway
+292,Braniff International Airways;BN;BNF;Braniff;United States
+293,Bravo Air Congo;K6;BRV;BRAVO;Democratic Republic of the Congo
+294,Bringer Air Cargo Taxi Aereo;E6;\N;\N;Brazil
+295,Brit Air;DB;BZH;BRITAIR;France
+296,British Airways;BA;BAW;SPEEDBIRD;United Kingdom
+297,British International Helicopters;BS;BIH;BRINTEL;United Kingdom
+298,British Mediterranean Airways;KJ;LAJ;BEE MED;United Kingdom
+299,Brussels Airlines;SN;DAT;BEE-LINE;Belgium
+300,Buffalo Airways;J4;BFL;BUFFALO;Canada
+301,Bulgaria Air;FB;LZB;FLYING BULGARIA;Bulgaria
+302,CAL Cargo Air Lines;5C;ICL;CAL;Israel
+303,CHC Airways;AW;SCH;\N;Netherlands
+304,Calima Aviacion;XG;CLI;CALIMA;Spain
+305,Camai Air;R9;CAM;AIR CAMAI;United States
+306,Cameroon Airlines;UY;UYC;CAM-AIR;Cameroon
+307,CanJet;C6;CJA;CANJET;Canada
+308,Canadian Airlines;CP;CDN;CANADIAN;Canada
+309,Canadian North;5T;MPE;EMPRESS;Canada
+310,Canadian Western Airlines;W2;CWA;CANADIAN WESTERN;Canada
+311,Cape Air;9K;KAP;CAIR;United States
+312,Capital Cargo International Airlines;PT;CCI;CAPPY;United States
+313,Cargo Plus Aviation;8L;CGP;\N;United Arab Emirates
+314,Cargoitalia;2G;CRG;WHITE PELICAN;Italy
+315,Cargojet Airways;W8;CJT;CARGOJET;Canada
+316,Caribbean Airlines;BW;BWA;CARIBBEAN AIRLINES;Trinidad and Tobago
+317,Caribbean Star Airlines;8B;GFI;CARIB STAR;Antigua and Barbuda
+318,Carpatair;V3;KRP;CARPATAIR;Romania
+319,Caspian Airlines;RV;CPN;CASPIAN;Iran
+320,Cathay Pacific;CX;CPA;CATHAY;Hong Kong SAR of China
+321,Cayman Airways;KX;CAY;CAYMAN;Cayman Islands
+322,Cebu Pacific;5J;CEB;CEBU AIR;Philippines
+323,Centavia;7N;CNA;\N;Serbia
+324,Centralwings;C0;CLW;CENTRALWINGS;Poland
+325,Centre-Avia;J7;CVC;AVIACENTRE;Russia
+326,Centurion Air Cargo;WE;CWC;CHALLENGE CARGO;United States
+327,Chalk's Ocean Airways;OP;CHK;CHALKS;United States
+328,Champion Air;MG;CCP;CHAMPION AIR;United States
+329,Changan Airlines;2Z;CGN;CHANGAN;China
+330,Chari Aviation Services;S8;CSU;CHARI SERVICE;Chad
+331,Chautauqua Airlines;RP;CHQ;CHAUTAUQUA;United States
+332,Chicago Express;C8;WDY;WINDY CITY;United States
+333,China Airlines;CI;CAL;DYNASTY;Taiwan
+334,China Cargo Airlines;CK;CKK;CARGO KING;China
+335,China Eastern Airlines;MU;CES;CHINA EASTERN;China
+336,China Northern Airlines;CJ;CBF;CHINA NORTHERN;China
+337,China Northwest Airlines;WH;CNW;CHINA NORTHWEST;China
+338,China Southern Airlines;CZ;CSN;CHINA SOUTHERN;China
+339,China United Airlines;HR;CUA;LIANHANG;China
+340,China Xinhua Airlines;XO;CXH;XINHUA;China
+341,Chitaavia;X7;CHF;CHITA;Russia
+342,Cielos Airlines;A2;CIU;CIELOS;Peru
+343,Cimber Air;QI;CIM;CIMBER;Denmark
+344,Cirrus Airlines;C9;RUS;CIRRUS AIR;Germany
+345,City Airline;CF;SDR;SWEDESTAR;Sweden
+346,City Connexion Airlines;G3;CIX;CONNEXION;Burundi
+347,CityJet;WX;BCY;CITY-IRELAND;Ireland
+348,Civil Air Transport;CT;CAT;Mandarin;Taiwan
+349,Club Air;6P;ISG;CLUBAIR;Italy
+350,Coast Air;BX;CST;COAST CENTER;Norway
+351,Coastal Air;DQ;\N;U.S. Virgin Islands;United States
+352,Colgan Air;9L;CJC;COLGAN;United States
+353,Comair;MN;CAW;COMMERCIAL;South Africa
+354,Comair;OH;COM;COMAIR;United States
+355,CommutAir;C5;UCA;COMMUTAIR;United States
+356,Comores Airlines;KR;CWK;CONTICOM;Comoros
+357,Compania Mexicargo;GJ;MXC;MEXICARGO;Mexico
+358,Condor Flugdienst;DE;CFG;CONDOR;Germany
+359,Consorcio Aviaxsa;6A;CHP;AVIACSA;Mexico
+360,Continental Airlines;CO;COA;CONTINENTAL;United States
+361,Continental Micronesia;CS;CMI;AIR MIKE;United States
+362,Conviasa;V0;VCV;CONVIASA;Venezuela
+363,Copa Airlines;CM;CMP;COPA;Panama
+364,Corsairfly;SS;CRL;CORSAIR;France
+365,Corse-Mediterranee;XK;CCM;CORSICA;France
+366,Cosmic Air;F5;COZ;COSMIC AIR;Nepal
+367,Coyne Aviation;7C;COY;COYNE AIR;United Kingdom
+368,Croatia Airlines;OU;CTN;CROATIA;Croatia
+369,Crossair Europe;QE;ECC;Cigogne;Switzerland
+370,Cubana de Aviación;CU;CUB;CUBANA;Cuba
+371,Cyprus Airways;CY;CYP;CYPRUS;Cyprus
+372,Cyprus Turkish Airlines;YK;\N;\N;Turkey
+373,Czech Airlines;OK;CSA;CSA-LINES;Czech Republic
+374,DAS Air Cargo;WD;DSR;DAIRAIR;Uganda
+375,DAT Danish Air Transport;DX;DTR;DANISH;Denmark
+376,DHL International;ES;DHX;DILMUN;Bahrain
+377,DHL de Guatemala;L3;JOS;\N;Guatemala
+378,Daallo Airlines;D3;DAO;DALO AIRLINES;Djibouti
+379,Dagestan Airlines;N2;DAG;DAGAL;Russia
+380,Dalavia;H8;KHB;DALAVIA;Russia
+381,Darwin Airline;0D;DWT;DARWIN;Switzerland
+382,Dauair;D5;DAU;DAUAIR;Germany
+383,Delta Air Lines;DL;DAL;DELTA;United States
+384,Deutsche Bahn;2A;\N;\N;Germany
+385,Deutsche Rettungsflugwacht;1I;AMB;CIVIL AIR AMBULANCE;Germany
+386,Dinar;D7;RDN;AERO DINAR;Argentina
+387,Discovery Airways;DH;DVA;DISCOVERY AIRWAYS;United States
+388,Djibouti Airlines;D8;DJB;DJIBOUTI AIR;Djibouti
+389,Dominicana de Aviación;DO;DOA;DOMINICANA;Dominican Republic
+390,Domodedovo Airlines;E3;DMO;DOMODEDOVO;Russia
+391,Dragonair;KA;HDA; Hong Kong Dragon Airlines;DRAGON
+392,Druk Air;KB;DRK;ROYAL BHUTAN;Bhutan
+393,EVA Air;BR;EVA;EVA;Taiwan
+394,Eagle Air;H7;\N;\N;Uganda
+395,East African Safari Air;S9;HSA;DUMA;Kenya
+396,East African;QU;UGX;CRANE;Uganda
+397,Eastern Airways;T3;EZE;EASTFLIGHT;United Kingdom
+398,Eastland Air;DK;ELA;\N;Australia
+399,Egyptair;MS;MSR;EGYPTAIR;Egypt
+400,El Al Israel Airlines;LY;ELY;ELAL;Israel
+401,El-Buraq Air Transport;UZ;BRQ;BURAQAIR;Libya
+402,Electronic Data Systems;1C;\N;\N;Switzerland
+403,Emirates Airline;EK;UAE;EMIRATES;United Arab Emirates
+404,Empresa Ecuatoriana De Aviacion;EU;EEA;ECUATORIANA;Ecuador
+405,Eos Airlines;E0;ESS;NEW DAWN;United States
+406,Eritrean Airlines;B8;ERT;ERITREAN;Eritrea
+407,Estafeta Carga Aerea;E7;ESF;\N;Mexico
+408,Estonian Air;OV;ELL;ESTONIAN;Estonia
+409,Ethiopian Airlines;ET;ETH;ETHIOPIAN;Ethiopia
+410,Etihad Airways;EY;ETD;ETIHAD;United Arab Emirates
+411,Euro Exec Express;RZ;\N;\N;Sweden
+412,EuroAtlantic Airways;MM;MMZ;EUROATLANTIC;Portugal
+413,Eurocypria Airlines;UI;ECA;EUROCYPRIA;Cyprus
+414,Eurolot;K2;ELO;EUROLOT;Poland
+415,Euromanx Airways;3W;EMX;EUROMANX;Austria
+416,European Air Express;EA;EAL;STAR WING;Germany
+417,European Air Transport;QY;BCS;EUROTRANS;Belgium
+418,Eurowings;EW;EWG;EUROWINGS;Germany
+419,Evergreen International Airlines;EZ;EIA;EVERGREEN;United States
+420,Excel Airways;JN;XLA;EXPO;United Kingdom
+421,Execair Aviation;MB;EXA;CANADIAN EXECAIRE;Canada
+422,Executive Airlines;OW;EXK;EXECUTIVE EAGLE;United States
+423,Express One International;EO;LHN;LONGHORN;United States
+424,ExpressJet;XE;BTA;JET LINK;United States
+425,Falcon Aviation;IH;\N;\N;Sweden
+426,Far Eastern Air Transport;EF;EFA;Far Eastern;Taiwan
+427,Faroejet;F6;RCK;ROCKROSE;Faroe Islands
+428,Faso Airways;F3;FSW;FASO;Burkina Faso
+429,Federal Express;FX;FDX;FEDEX;United States
+430,Fika Salaama Airlines;N8;HGK;SALAAMA;Uganda
+431,Finalair Congo;4S;FNC;FINALAIR CONGO;Republic of the Congo
+432,Finnair;AY;FIN;FINNAIR;Finland
+433,Finncomm Airlines;FC;WBA;WESTBIRD;Finland
+434,Firefly;FY;FFM;FIREFLY;Malaysia
+435,First Air;7F;FAB;\N;Canada
+436,First Choice Airways;DP;FCA;JETSET;United Kingdom
+437,Fischer Air;8F;FFR;FISCHER;Czech Republic
+438,Flightline;B5;FLT;FLIGHTLINE;United Kingdom
+439,Florida Coastal Airlines;PA;FCL;FLORIDA COASTAL;United States
+440,Florida West International Airways;RF;FWL;FLO WEST;United States
+441,Fly Air;F2;FLM;FLY WORLD;Turkey
+442,Fly Me Sweden;SH;FLY;FLYBIRD;Sweden
+443,FlyLal;TE;LIL;LITHUANIA AIR;Lithuania
+444,FlyNordic;LF;NDC;NORDIC;Sweden
+445,Flybaboo;F7;BBO;BABOO;Switzerland
+446,Flybe;BE;BEE;JERSEY;United Kingdom
+447,Flyhy Cargo Airlines;W3;FYH;FLY HIGH;Thailand
+448,Formosa Airlines;VY;FOS;\N;Taiwan
+449,Four Star Aviation / Four Star Cargo;HK;FSC;FOUR STAR;United States
+450,Freedom Air;FP;FRE;FREEDOM;United States
+451,Freedom Air;SJ;FOM;FREE AIR;New Zealand
+452,Frontier Airlines;F9;FFT;FRONTIER FLIGHT;United States
+453,Frontier Flying Service;2F;FTA;FRONTIER-AIR;United States
+454,Futura International Airways;FH;FUA;FUTURA;Spain
+455,GB Airways;GT;GBL;GEEBEE AIRWAYS;United Kingdom
+456,Galaxy Air;7O;GAL;GALAXY;Kyrgyzstan
+457,Galileo International;1G;\N;\N;United States
+458,Gambia International Airlines;GC;GNR;GAMBIA INTERNATIONAL;Gambia
+459,Gandalf Airlines;G7;GNF;Gandalf;Italy
+460,Garuda Indonesia;GA;GIA;INDONESIA;Indonesia
+461,Georgian Airways;A9;TGZ;TAMAZI;Georgia
+462,Georgian National Airlines;QB;GFG;NATIONAL;Georgia
+463,Germania;ST;GMI;GERMANIA;Germany
+464,Germanwings;4U;GWI;GERMAN WINGS;Germany
+465,Gestair;GP;GES;GESTAIR;Spain
+466,Ghana Airways;GH;GHA;GHANA;Ghana
+467,Ghana International Airlines;G0;GHB;GHANA AIRLINES;Ghana
+468,Go One Airways;GK;\N;\N;United Kingdom
+469,Golden Air;DC;GAO;GOLDEN;Sweden
+470,Gorkha Airlines;G1;IKA;GORKHA AIRLINES;Nepal
+471,Great Lakes Airlines;ZK;GLA;LAKES AIR;United States
+472,Great Wall Airlines;IJ;GWL;GREAT WALL;China
+473,Grupo TACA;TA;TAT;TACA-COSTARICA;Costa Rica
+474,Guine Bissaur Airlines;G6;BSR;BISSAU AIRLINES;Guinea-Bissau
+475,Guinee Airlines;J9;GIF;GUINEE AIRLINES;Guinea
+476,Gulf Air Bahrain;GF;GBA;GULF BAHRAIN;Bahrain
+477,Guyana Airways 2000;GY;\N;\N;\N
+478,Hageland Aviation Services;H6;HAG;HAGELAND;United States
+479,Hainan Airlines;HU;CHH;HAINAN;China
+480,Hainan Phoenix Information Systems;1R;\N;\N;China
+481,Haiti Ambassador Airlines;2T;HAM;\N;Haiti
+482,Hamburg International;4R;HHI;HAMBURG JET;Germany
+483,Hapag-Lloyd Express (TUIfly);X3;HLX;YELLOW CAB;Germany
+484,Hapagfly;HF;HLF;HAPAG LLOYD;Germany
+485,Harbor Airlines;HB;HAR;HARBOR;United States
+486,Harmony Airways;HQ;HMY;HARMONY;Canada
+487,Hawaiian Airlines;HA;HAL;HAWAIIAN;United States
+488,Hawkair;BH;\N;\N;Canada
+489,Heavylift Cargo Airlines;HN;HVY;HEAVY CARGO;Australia
+490,Heli France;8H;HFR;HELIFRANCE;France
+491,Helijet;JB;JBA;HELIJET;Canada
+492,Helios Airways;ZU;HCY;HELIOS;Cyprus
+493,Hellas Jet;T4;HEJ;HELLAS JET;Greece
+494,Hello;HW;FHE;FLYHELLO;Switzerland
+495,Helvetic Airways;2L;OAW;HELVETIC;Switzerland
+496,Hemus Air;DU;HMS;HEMUS AIR;Bulgaria
+497,Hex'Air;UD;HER;HEX AIRLINE;France
+498,Hi Fly;5K;HFY;SKY FLYER;Portugal
+499,Hokkaido International Airlines;HD;ADO;AIR DO;Japan
+500,Hola Airlines;H5;HOA;HOLA;Spain
+501,Hong Kong Express Airways;UO;HKE;HONGKONG SHUTTLE;Hong Kong SAR of China
+502,Hope Air;HH;\N;HOPE AIR;Canada
+503,Horizon Air;QX;QXE;HORIZON AIR;United States
+504,HÃ©li SÃ©curitÃ© Helicopter Airlines;H4;\N;\N;France
+505,IBC Airways;II;CSQ;CHASQUI;United States
+506,ICAR Airlines;C3;\N;\N;Ukraine
+507,INFINI Travel Information;1F;\N;\N;Japan
+508,ITA Software;1U;\N;\N;United States
+509,Iberia Airlines;IB;IBE;IBERIA;Spain
+510,Ibex Airlines;FW;IBX;IBEX;Japan
+511,Icelandair;FI;ICE;ICEAIR;Iceland
+512,Imair Airlines;IK;ITX;IMPROTEX;Azerbaijan
+513,IndiGo Airlines;6E;IGO;IFLY;India
+514,Indian Airlines;IC;IAC;INDAIR;India
+515,Indonesia AirAsia;QZ;AWQ;WAGON AIR;Indonesia
+516,Indonesian Airlines;IO;IAA;INDO LINES;Indonesia
+517,Interair South Africa;D6;ILN;INLINE;South Africa
+518,Intercontinental de Aviación;RS;ICT;CONTAVIA;Colombia
+519,Interlink Airlines;ID;ITK;INTERLINK;South Africa
+520,International Business Air;6I;IBZ;INTERBIZ;Sweden
+521,Intersky;3L;ISK;INTERSKY;Austria
+522,Interstate Airline;I4;FWA;FREEWAYAIR;Netherlands
+523,Iran Air;IR;IRA;IRANAIR;Iran
+524,Iran Aseman Airlines;EP;IRC;\N;Iran
+525,Iraqi Airways;IA;IAW;IRAQI;Iraq
+526,Island Airlines;IS;\N;\N;United States
+527,Island Express;2S;SDY;SANDY ISLE;United States
+528,Islands Nationair;CN;\N;\N;Papua New Guinea
+529,Islas Airways;IF;ISW;PINTADERA;Spain
+530,Islena De Inversiones;WC;ISV;\N;Honduras
+531,Israir;6H;ISR;ISRAIR;Israel
+532,Itali Airlines;9X;ACL;ITALI;Italy
+533,Itek Air;GI;IKA;ITEK-AIR;Kyrgyzstan
+534,J-Air;XM;\N;J AIR;Japan
+535,JAL Express;JC;JEX;JANEX;Japan
+536,JALways;JO;JAZ;JALWAYS;Japan
+537,JSC Transport Automated Information Systems;1M;\N;\N;Russia
+538,Japan Airlines Domestic;JL;JAL;J-BIRD;Japan
+539,Japan Asia Airways;EG;JAA;ASIA;Japan
+540,Japan Transocean Air;NU;JTA;JAI OCEAN;Japan
+541,Jat Airways;JU;JAT;JAT;Serbia
+542,Jatayu Airlines;VJ;JTY;JATAYU;Indonesia
+543,Jet Airways;9W;JAI;JET AIRWAYS;India
+544,Jet Airways;QJ;\N;\N;United States
+545,Jet2.com;LS;EXS;CHANNEX;United Kingdom
+546,JetBlue Airways;B6;JBU;JETBLUE;United States
+547,Jetairfly;JF;JAF;BEAUTY;Belgium
+548,Jetclub;0J;\N;\N;Switzerland
+549,JetsGo;SG;JGO;JETSGO;Canada
+550,Jetstar Airways;JQ;JST;JETSTAR;Australia
+551,Jetstar Asia Airways;3K;JSA;JETSTAR ASIA;Singapore
+552,Jett8 Airlines Cargo;JX;JEC;\N;Singapore
+553,Jetx Airlines;GX;JXX;JETBIRD;Iceland
+554,Jordan Aviation;R5;JAV;JORDAN AVIATION;Jordan
+555,KD Avia;KD;KNI;KALININGRAD AIR;Russia
+556,KLM Cityhopper;WA;KLC;CITY;Netherlands
+557,KLM Royal Dutch Airlines;KL;KLM;KLM;Netherlands
+558,Kalitta Air;K4;CKS;CONNIE;United States
+559,Kam Air;RQ;KMF;KAMGAR;Afghanistan
+560,Kampuchea Airlines;E2;KMP;KAMPUCHEA;Cambodia
+561,Karat;V2;AKT;AVIAKARAT;Russia
+562,Kavminvodyavia;KV;MVD;AIR MINVODY;Russia
+563,Kenmore Air;M5;KEN;KENMORE;United States
+564,Kenya Airways;KQ;KQA;KENYA;Kenya
+565,Kingfisher Airlines;IT;KFR;KINGFISHER;India
+566,Kish Air;Y9;IRK;KISHAIR;Iran
+567,Kiwi International Air Lines;KP;KIA;KIWI AIR;United States
+568,Kogalymavia Air Company;7K;KGL;KOGALYM;Russia
+569,Komiinteravia;8J;KMV;KOMIINTER;Russia
+570,Korean Air;KE;KAL;KOREANAIR;Republic of Korea
+571,Krasnojarsky Airlines;7B;KJC;KRASNOJARSKY AIR;Russia
+572,Krylo Airlines;K9;KRI;Krylo;Russia
+573,Kuban Airlines;GW;KIL;AIR KUBAN;Russia
+574,Kuwait Airways;KU;KAC;KUWAITI;Kuwait
+575,Kuzu Airlines Cargo;GO;KZU;KUZU CARGO;Turkey
+576,Kyrgyz Airlines;N5;KGZ;BERMET;Kyrgyzstan
+577,Kyrgyzstan Airlines;R8;KGA;KYRGYZ;Kyrgyzstan
+578,LACSA;LR;LRC;LACSA;Costa Rica
+579,LAI - Linea Aerea IAACA;KG;BNX;AIR BARINAS;Venezuela
+580,LAN Airlines;LA;LAN;LAN;Chile
+581,LAN Express;LU;LXP;LANEX;Chile
+582,LAN Peru;LP;LPE;LANPERU;Peru
+583,LOT Polish Airlines;LO;LOT;POLLOT;Poland
+584,LTU International;LT;LTU;LTU;Germany
+585,Lagun Air;N6;JEV;\N;Spain
+586,Lao Airlines;QV;LAO;LAO;Lao Peoples Democratic Republic
+587,Laoag International Airlines;L7;LPN;LAOAG AIR;Philippines
+588,Lauda Air;NG;LDA;LAUDA AIR;Austria
+589,Lebanese Air Transport;LQ;LAQ;LAT;Lebanon
+590,Leeward Islands Air Transport;LI;LIA;LIAT;Antigua and Barbuda
+591,Libyan Arab Airlines;LN;LAA;LIBAIR;Libya
+592,Linea Aerea de Servicio Ejecutivo Regional;8z;LER;LASER;Venezuela
+593,Linhas Aéreas de Moçambique;LM;LAM;MOZAMBIQUE;Mozambique
+594,Lion Mentari Airlines;JT;LNI;LION INTER;Indonesia
+595,Lloyd Aereo Boliviano;LB;LLB;LLOYDAEREO;Bolivia
+596,Luftfahrtgesellschaft Walter;HE;LGW;WALTER;Germany
+597,Lufthansa Cargo;LH;GEC;LUFTHANSA CARGO;Germany
+598,Lufthansa CityLine;CL;CLH;HANSALINE;Germany
+599,Lufthansa Systems;L1;\N;\N;Germany
+600,Lufttaxi Fluggesellschaft;DV;LTF;Garfield;Germany
+601,Lufttransport;L5;LTR;LUFT TRANSPORT;Norway
+602,Luxair;LG;LGL;LUXAIR;Luxembourg
+603,Lviv Airlines;5V;UKW;UKRAINE WEST;Ukraine
+604,Lynden Air Cargo;L2;LYC;LYNDEN;United States
+605,Líneas Aéreas Privadas Argentinas;MJ;LPR;LAPA;Argentina
+606,MAT Macedonian Airlines;IN;MAK;MAKAVIO;Macedonia
+607,MIAT Mongolian Airlines;OM;MGL;MONGOL AIR;Mongolia
+608,Maersk;DM;\N;\N;Denmark
+609,Mahan Air;W5;IRM;MAHAN AIR;Iran
+610,Mahfooz Aviation;M2;MZS;MAHFOOZ;Gambia
+611,Malaysia Airlines;MH;MAS;MALAYSIAN;Malaysia
+612,MalmÃ¶ Aviation;TF;SCW;Scanwings;Sweden
+613,Malév Hungarian Airlines;MA;MAH;MALEV;Hungary
+614,Mandala Airlines;RI;MDL;MANDALA;Indonesia
+615,Mandarin Airlines;AE;MDA;Mandarin;Taiwan
+616,Mango;JE;MNO;TULCA;South Africa
+617,Marsland Aviation;M7;MSL;MARSLANDAIR;Sudan
+618,Martinair;MP;MPH;MARTINAIR;Netherlands
+619,Mastertop Linhas Aereas;Q4;\N;\N;Brazil
+620,Maxair;8M;MXL;MAXAIR;Sweden
+621,Maxjet Airways;MY;MXJ;MAX-JET;United States
+622,Maya Island Air;MW;MYD;MYLAND;Belize
+623,Menajet;IM;MNJ;MENAJET;Lebanon
+624,Meridiana;IG;ISS;MERAIR;Italy
+625,Merpati Nusantara Airlines;MZ;MNA;MERPATI;Indonesia
+626,Mesa Airlines;YV;ASH;AIR SHUTTLE;United States
+627,Mesaba Airlines;XJ;MES;MESABA;United States
+628,Metro Batavia;7P;BTV;BATAVIA;Indonesia
+629,Mexicana de Aviación;MX;MXA;MEXICANA;Mexico
+630,Middle East Airlines;ME;MEA;CEDAR JET;Lebanon
+631,Midway Airlines;JI;MDW;MIDWAY;United States
+632,Midwest Airlines;YX;MEP;\N;United States
+633,Moldavian Airlines;2M;MDV;MOLDAVIAN;Moldova
+634,Montenegro Airlines;YM;MGX;MONTAIR;Montenegro
+635,Moskovia Airlines;3R;GAI;GROMOV AIRLINE;Russia
+636,Motor Sich;M9;MSI;MOTOR SICH;Ukraine
+637,Mountain Air Company;N4;MTC;MOUNTAIN LEONE;Sierra Leone
+638,MyTravel Airways;VZ;MYT;KESTREL;United Kingdom
+639,Myanma Airways;UB;UBA;UNIONAIR;Myanmar
+640,Myway Airlines;8I;\N;\N;Italy
+641,Nas Air;P9;\N;\N;Mali
+642,Nas Air;XY;KNE;NAS EXPRESS;Saudi Arabia
+643,Nasair;UE;NAS;NASAIRWAYS;Eritrea
+644,National Airlines;N7;ROK;RED ROCK;United States
+645,National Airlines;NA;NAL;NATIONAL;United States
+646,National Airways Cameroon;9O;\N;\N;Cameroon
+647,National Jet Systems;NC;NJS;NATIONAL JET;Australia
+648,Nationwide Airlines;CE;NTW;NATIONWIDE;South Africa
+649,Nauru Air Corporation;ON;RON;AIR NAURU;Nauru
+650,Navitaire;1N;\N;\N;United States
+651,Nepal Airlines;RA;RNA;ROYAL NEPAL;Nepal
+652,New England Airlines;EJ;NEA;NEW ENGLAND;United States
+653,Niki;HG;NLY;FLYNIKI;Austria
+654,Nippon Cargo Airlines;KZ;NCA;NIPPON CARGO;Japan
+655,Nok Air;DD;NOK;NOK AIR;Thailand
+656,Nordeste Linhas Aereas Regionais;JH;NES;NORDESTE;Brazil
+657,Nordic Regional;6N;NRD;NORTH RIDER;Sweden
+658,North Coast Aviation;N9;\N;\N;Papua New Guinea
+659,Northern Dene Airways;U7;\N;\N;Canada
+660,Northwest Airlines;NW;NWA;NORTHWEST;United States
+661,Northwestern Air;J3;PLR;POLARIS;Canada
+662,Norwegian Air Shuttle;DY;NAX;NOR SHUTTLE;Norway
+663,Nouvel Air Tunisie;BJ;LBT;NOUVELAIR;Tunisia
+664,Nova Airline;M4;NOV;NOVANILE;Sudan
+665,O'Connor Airlines;UQ;OCM;OCONNOR;Australia
+666,OAG;CR;\N;\N;United Kingdom
+667,Oasis Hong Kong Airlines;O8;OHK;OASIS;Hong Kong
+668,Ocean Airlines;VC;VCX;OCEANCARGO;Italy
+669,Oceanair;O6;ONE;OCEANAIR;Brazil
+670,Oceanic Airlines;O2;\N;\N;Guinea
+671,Olympic Airlines;OA;OAL;OLYMPIC;Greece
+672,Oman Air;WY;OMA;OMAN AIR;Oman
+673,Omni Air International;OY;OAE;OMNI-EXPRESS;United States
+674,Omskavia Airline;N3;OMS;OMSK;Russia
+675,Open Skies Consultative Commission;1L;OSY;OPEN SKIES;United States
+676,Orenburg Airlines;R2;ORB;ORENBURG;Russia
+677,Orient Thai Airlines;OX;OEA;ORIENT THAI;Thailand
+678,Ostfriesische Lufttransport;OL;OLT;OLTRA;Germany
+679,Overland Airways;OJ;OLA;OVERLAND;Nigeria
+680,Ozjet Airlines;O7;OZJ;AUSJET;Australia
+681,PAN Air;PV;PNR;SKYJET;Spain
+682,PB Air;9Q;PBA;PEEBEE AIR;Thailand
+683,PLUNA;PU;PUA;PLUNA;Uruguay
+684,PMTair;U4;PMT;MULTITRADE;Cambodia
+685,Pace Airlines;Y5;PCE;PACE;United States
+686,Pacific Airlines;BL;PIC;PACIFIC AIRLINES;Vietnam
+687,Pacific Blue;DJ;PBN;BLUEBIRD;New Zealand
+688,Pacific Coastal Airline;8P;PCO;PASCO;Canada
+689,Pacific East Asia Cargo Airlines;Q8;PEC;PAC-EAST CARGO;Philippines
+690,Pacific Southwest Airlines;PS;PSX;SMILEY;United States
+691,Pacific Wings;LW;NMI;TSUNAMI;United States
+692,Pakistan International Airlines;PK;PIA;PAKISTAN;Pakistan
+693,Palestinian Airlines;PF;PNW;PALESTINIAN;Egypt
+694,Pamir Airways;NR;PIR;PAMIR;Afghanistan
+695,Pan American Airways;PN;\N;\N;United States
+696,Panafrican Airways;PQ;PNF;PANWAYS;Ivory Coast
+697,Pantanal Linhas AÃ©reas;P8;PTN;PANTANAL;Brazil
+698,Paramount Airways;I7;PMW;PARAWAY;India
+699,Peninsula Airways;KS;PEN;PENINSULA;United States
+700,Philippine Airlines;PR;PAL;PHILIPPINE;Philippines
+701,Phuket Air;9R;VAP;PHUKET AIR;Thailand
+702,Piedmont Airlines (1948-1989);PI;PDT;PIEDMONT;United States
+703,Pinnacle Airlines;9E;FLG;FLAGSHIP;United States
+704,Polar Air Cargo;PO;PAC;POLAR;United States
+705,Polynesian Airlines;PH;PAO;POLYNESIAN;Samoa
+706,Porter Airlines;PD;POE;PORTER AIR;Canada
+707,Portugalia;NI;PGA;PORTUGALIA;Portugal
+708,Potomac Air;BK;PDC;DISTRICT;United States
+709,Precision Air;PW;PRF;PRECISION AIR;Tanzania
+710,President Airlines;TO;PSD;\N;Cambodia
+711,Primaris Airlines;FE;WCP;WHITECAP;United States
+712,Private flight;-;N/A;\N;\N
+713,Proflight Commuter Services;P0;\N;\N;Zambia
+714,Pulkovo Aviation Enterprise;FV;PLK;PULKOVO;Russia
+715,Qantas;QF;QFA;QANTAS;Australia
+716,Qatar Airways;QR;QTR;QATARI;Qatar
+717,RACSA;R6;\N;\N;Guatemala
+718,Radixx Solutions International;1D;\N;\N;United States
+719,Reem Air;V4;REK;REEM AIR;Kyrgyzstan
+720,Regional Airlines;FN;\N;\N;Morocco
+721,Regional Express;ZL;RXA;REX;Australia
+722,RegionsAir;3C;CEA;CORP-X;United States
+723,Republic Airlines;RW;RPA;BRICKYARD;United States
+724,Republic Express Airlines;RH;RPH;PUBLIC EXPRESS;Indonesia
+725,Rico Linhas Aéreas;C7;RLE;RICO;Brazil
+726,Rio Sul Serviços Aéreos Regionais;SL;RSL;RIO SUL;Brazil
+727,Rossiya;R4;\N;\N;Russia
+728,Rotation International Air Services;GZ;RAR;ROTATION AIR;Ethiopia
+729,Royal Air Force;RR;RFR;RAFAIR;United Kingdom
+730,Royal Air Maroc;AT;RAM;ROYALAIR MAROC;Morocco
+731,Royal Airlines;R0;RPK;ROYAL PAKISTAN;Pakistan
+732,Royal Brunei Airlines;BI;RBA;BRUNEI;Brunei
+733,Royal Jordanian;RJ;RJA;JORDANIAN;Jordan
+734,Royal Phnom Penh Airways;RL;PPW;PHNOM-PENH AIR;Cambodia
+735,Royal Tongan Airlines;WR;HRH;TONGA ROYAL;Tonga
+736,Russian Sky Airlines;P7;ESL;RADUGA;Russia
+737,Rwandair Express;WB;RWD;RWANDAIR;Rwanda
+738,Ryan International Airlines;RD;RYN;RYAN INTERNATIONAL;United States
+739,Ryanair;FR;RYR;RYANAIR;Ireland
+740,Régional;YS;RAE;REGIONAL EUROPE;France
+741,S7 Airlines;S7;SBI;SIBERIAN AIRLINES;Russia
+742,SATA Air Acores;SP;SAT;SATA;Portugal
+743,SATA International;S4;RZO;AIR AZORES;Portugal
+744,SITA;XS;SIT;\N;Belgium
+745,SNCF;2C;\N;\N;France
+746,Sabre Pacific;1Z;\N;\N;Australia
+747,Sabre;1S;\N;\N;United States
+748,Safair;FA;SFR;CARGO;South Africa
+749,Samara Airlines;E5;BRZ;BERYOZA;Russia
+750,Santa Barbara Airlines;S3;BBR;SANTA BARBARA;Venezuela
+751,Saratov Aviation Division;6W;SOV;SARATOV AIR;Russia
+752,Sat Airlines;HZ;SOZ;SATCO;Kazakhstan
+753,Saudi Arabian Airlines;SV;SVA;SAUDIA;Saudi Arabia
+754,Scandinavian Airlines System;SK;SAS;SCANDINAVIAN;Sweden
+755,Scorpio Aviation;8S;\N;\N;\N
+756,Seaborne Airlines;BB;SBS;SEABORNE;United States
+757,Servicios de Transportes Aéreos Fueguinos;FS;STU;FUEGUINO;Argentina
+758,Shaheen Air International;NL;SAI;SHAHEEN AIR;Pakistan
+759,Shandong Airlines;SC;CDG;SHANDONG;China
+760,Shanghai Airlines;FM;CSH;SHANGHAI AIR;China
+761,Shenzhen Airlines;ZH;CSZ;SHENZHEN AIR;China
+762,Shuttle America;S5;TCF;MERCURY;United States
+763,Sibaviatrans;5M;SIB;SIBAVIA;Russia
+764,Sichuan Airlines;3U;CSC;SI CHUAN;China
+765,Siem Reap Airways;FT;SRH;SIEMREAP AIR;Cambodia
+766,Sierra National Airlines;LJ;SLA;SELAIR;Sierra Leone
+767,Silk Way Airlines;ZP;AZQ;SILK LINE;Azerbaijan
+768,SilkAir;MI;SLK;SILKAIR;Singapore
+769,Singapore Airlines Cargo;SQ;SQC;SINGCARGO;Singapore
+770,Siren-Travel;1H;\N;\N;Russia
+771,Sirena;1Q;\N;\N;Russia
+772,Sirin;R1;\N;\N;\N
+773,Sky Airline;H2;SKU;AEROSKY;Chile
+774,Sky Express;XW;SXR;SKYSTORM;Russia
+775,Sky Eyes;I6;SEQ;SKY EYES;Thailand
+776,SkyEurope;NE;ESK;RELAX;Slovakia
+777,SkyWest;OO;SKW;SKYWEST;United States
+778,Skybus Airlines;SX;SKB;SKYBUS;United States
+779,Skymark Airlines;BC;SKY;SKYMARK;Japan
+780,Skynet Airlines;SI;SIH;BLUEJET;Ireland
+781,Skynet Asia Airways;6J;SNJ;NEWSKY;Japan
+782,Skyservice Airlines;5G;SSV;SKYTOUR;Canada
+783,Skywalk Airlines;AL;SYX;SKYWAY-EX;United States
+784,Skyways Express;JZ;SKX;SKY EXPRESS;Sweden
+785,Slok Air Gambia;S0;OKS;SLOK GAMBIA;Gambia
+786,Slovak Airlines;6Q;SLL;SLOV LINE;Slovakia
+787,Solomon Airlines;IE;SOL;SOLOMON;Solomon Islands
+788,Sosoliso Airlines;SO;OSL;SOSOLISO;Nigeria
+789,South African Airways;SA;SAA;SPRINGBOK;South Africa
+790,South East Asian Airlines;DG;SRQ;SEAIR;Philippines
+791,Southern Cross Distribution;1K;\N;\N;Australia
+792,Southern Winds Airlines;A4;SWD;SOUTHERN WINDS;Argentina
+793,Southwest Airlines;WN;SWA;SOUTHWEST;United States
+794,Spanair;JK;JKK;SPANAIR;Spain
+795,Spirit Airlines;NK;NKS;SPIRIT WINGS;United States
+796,Spring Airlines;9S;CQH;AIR SPRING;China
+797,SriLankan Airlines;UL;ALK;SRILANKAN;Sri Lanka
+798,Star Air;S6;\N;\N;Denmark
+799,Star Flyer;7G;SFJ;STARFLYER;Japan
+800,Sterling Airlines;NB;SNB;STERLING;Denmark
+801,Sudan Airways;SD;SUD;SUDANAIR;Sudan
+802,Sun Country Airlines;SY;SCX;SUN COUNTRY;United States
+803,Sun D'Or;7L;ERO;ECHO ROMEO;Israel
+804,SunExpress;XQ;SXS;SUNEXPRESS;Turkey
+805,Sunshine Express Airlines;CQ;EXL;\N;Australia
+806,Sunwing Airlines;WG;SWG;SUNWING;Canada
+807,Surinam Airways;PY;SLM;SURINAM;Suriname
+808,Swe Fly;WV;SWV;FLYING SWEDE;Sweden
+809,Swedline Express;SM;SRL;Starline;Sweden
+810,Swiss International Air Lines;LX;SWR;SWISS;Switzerland
+811,Swissair;SR;SWR;Swissair;Switzerland
+812,TAAG Angola Airlines;DT;DTA;DTA;Angola
+813,TACV;VR;TCV;CABOVERDE;Portugal
+814,TAM Brazilian Airlines;JJ;TAM;TAM;Brazil
+815,TAM Mercosur;PZ;LAP;PARAGUAYA;Paraguay
+816,TAME;EQ;TAE;TAME;Ecuador
+817,TAMPA;QT;TPA;TAMPA;Colombia
+818,TAP Portugal;TP;TAP;AIR PORTUGAL;Portugal
+819,TNT Airways;3V;TAY;QUALITY;Belgium
+820,TRIP Linhas Aéreas;8R;TIB;TRIP;Brazil
+821,TUI Airlines Belgium;TB;TUB;BEAUTY;Belgium
+822,TUIfly Nordic;6B;BLX;BLUESCAN;Sweden
+823,Tandem Aero;TQ;TDM;TANDEM;Moldova
+824,Tarom;RO;ROT;TAROM;Romania
+825,Tassili Airlines;SF;DTH;TASSILI AIR;Algeria
+826,Tatarstan Airlines;U9;TAK;TATARSTAN;Russia
+827,Tavrey Airlines;T6;TVR;TAVREY;Ukraine
+828,Tbilaviamsheni;L6;VNZ;TBILAVIA;Georgia
+829,Teamline Air;L9;TLW;Teamline;Austria
+830,Thai Air Cargo;T2;TCG;THAI CARGO;Thailand
+831,Thai AirAsia;FD;AIQ;THAI ASIA;Thailand
+832,Thai Airways International;TG;THA;THAI;Thailand
+833,Thai Sky Airlines;9I;TKY;THAI SKY;Thailand
+834,Thai Star Airlines;T9;TSX;THAI STAR;Thailand
+835,Thalys;2H;\N;\N;Belgium
+836,Thomas Cook Airlines;FQ;TCW;THOMAS COOK;Belgium
+837,Thomas Cook Airlines;MT;TCX;KESTREL;United Kingdom
+838,Thomsonfly;BY;TOM;TOMSON;United Kingdom
+839,Tiara Air;3P;TNM;TIARA;Aruba
+840,Tiger Airways;TR;TGW;GO CAT;Singapore
+841,Titan Airways;ZT;AWC;ZAP;United Kingdom
+842,Tol-Air Services;TI;TOL;TOL AIR;United States
+843,Trans States Airlines;AX;LOF;WATERSKI;United States
+844,Trans World Airlines;TW;TWA;TWA;United States
+845,TransAsia Airways;GE;TNA;TransAsia;Taiwan
+846,Transaero Airlines;UN;TSO;TRANSOVIET;Russia
+847,Transavia Holland;HV;TRA;TRANSAVIA;Netherlands
+848,Transwest Air;9T;ABS;ATHABASKA;Canada
+849,Travelsky Technology;1E;\N;\N;China
+850,Tropic Air;PM;TOS;TROPISER;Belize
+851,Tuninter;UG;TUI;\N;Tunisia
+852,Tunisair;TU;TAR;TUNAIR;Tunisia
+853,Turan Air;3T;URN;TURAN;Azerbaijan
+854,Turkish Airlines;TK;THY;TURKAIR;Turkey
+855,Turkmenistan Airlines;T5;TUA;TURKMENISTAN;Turkmenistan
+856,Twin Jet;T7;TJT;TWINJET;France
+857,UM Airlines;UF;UKM;UKRAINE MEDITERRANEE;Ukraine
+858,US Airways;US;USA;U S AIR;United States
+859,US Helicopter Corporation;UH;\N;\N;United States
+860,USA3000 Airlines;U5;GWY;GETAWAY;United States
+861,UTair Aviation;UT;UTA;UTAIR;Russia
+862,Ukrainian Cargo Airways;6Z;UKS;CARGOTRANS;Ukraine
+863,United Airlines;UA;UAL;UNITED;United States
+864,United Feeder Service;U2;\N;\N;United States
+865,United Parcel Service;5X;UPS;UPS;United States
+866,Ural Airlines;U6;SVR;SVERDLOVSK AIR;Russia
+867,Uzbekistan Airways;HY;UZB;UZBEK;Uzbekistan
+868,V Australia Airlines;VA;VAU;KANGA;Australia
+869,VASP;VP;VSP;VASP;Brazil
+870,VIA Rail Canada;2R;\N;\N;Canada
+871,VIM Airlines;NN;MOV;MOV AIR;Russia
+872,VLM Airlines;VG;VLM;RUBENS;Belgium
+873,VRG Linhas Aereas;RG;VRN;VARIG;Brazil
+874,Valuair;VF;VLU;VALUAIR;Singapore
+875,Varig Logística;LC;VLO;VELOG;Brazil
+876,Viaggio Air;VM;VOA;VIAGGIO;Bulgaria
+877,Vietnam Airlines;VN;HVN;VIET NAM AIRLINES;Vietnam
+878,Virgin Atlantic Airways;VS;VIR;VIRGIN;United Kingdom
+879,Virgin Express;TV;VEX;VIRGIN EXPRESS;Belgium
+880,Virgin Nigeria Airways;VK;VGN;VIRGIN NIGERIA;Nigeria
+881,Viva Macau;ZG;VVM;JACKPOT;Macao
+882,Vladivostok Air;XF;VLK;VLADAIR;Russia
+883,Volaris;Y4;VOI;VOLARIS;Mexico
+884,Volga-Dnepr Airlines;VI;VDA;VOLGA-DNEPR;Russia
+885,Wayraperú;7W;\N;WAYRAPERÚ;Peru
+886,WebJet Linhas Aéreas;WJ;WEB;WEB-BRASIL;Brazil
+887,Welcome Air;2W;WLC;WELCOMEAIR;Austria
+888,West Coast Air;8O;\N;\N;Canada
+889,WestJet;WS;WJA;WESTJET;Canada
+890,Widerøe;WF;WIF;WIDEROE;Norway
+891,Wind Jet;IV;JET;GHIBLI;Italy
+892,Wings Air;1W;WON;WINGS ABADI;Indonesia
+893,Wizz Air;W6;WVL;WIZZBUL;Bulgaria
+894,World Airways;WO;WOA;WORLD;United States
+895,Worldspan;1P;\N;\N;United States
+896,XL Airways France;SE;SEU;STARWAY;France
+897,Xiamen Airlines;MF;CXA;XIAMEN AIR;China
+898,Xtra Airways;XP;CXP;RUBY MOUNTAIN;United States
+899,Yamal Airlines;YL;LLM;YAMAL;Russia
+900,Yangtze River Express;Y8;YZR;YANGTZE RIVER;China
+901,Yellow Air Taxi;Y0;\N;\N;United States
+902,Yemenia;IY;IYE;YEMENI;Yemen
+903,Yunnan Airlines;3Q;CYH;YUNNAN;China
+904,Yuzhmashavia;2N;UMK;YUZMASH;Ukraine
+905,Zambian Airways;Q3;MBN;ZAMBIANA;Zambia
+906,Zimex Aviation;C4;IMX;ZIMEX;Switzerland
+907,Zip;3J;WZP;ZIPPER;Canada
+908,Zoom Airlines;Z4;OOM;ZOOM;Canada
+909,bmi;BD;BMA;MIDLAND;United Kingdom
+910,bmibaby;WW;BMI;BABY;United Kingdom
+911,buzz;UK;BUZ;\N;\N
+912,dba;DI;BAG;SPEEDWAY;Germany
